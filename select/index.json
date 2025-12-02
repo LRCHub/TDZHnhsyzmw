@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Feelin’ Go(o)d",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2025-12-02T21:24:13.707456Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feelin' Go(o)d",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_Feelin'_Go(o)d_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feelin’ Go(o)d",
+      "artist": "Fujii Kaze",
+      "has_synced": false,
+      "path": "select/02_Feelin’_Go(o)d_Fujii_Kaze.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feelin’ Go(o)d",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/03_Feelin’_Go(o)d_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feelin' Go(o)d",
+      "artist": "Fujii Kaze",
+      "has_synced": false,
+      "path": "select/04_Feelin'_Go(o)d_Fujii_Kaze.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Introduction \"Feelin' Go(o)d\"",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/05_Introduction__Feelin'_Go(o)d_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feelin' Go(o)d - Fujii Kaze Stadium Live \"Feelin' Good\"",
+      "artist": "Fujii Kaze",
+      "has_synced": false,
+      "path": "select/06_Feelin'_Go(o)d_-_Fujii_Kaze_Stadium_Live__Feelin'_Good_Fujii_Kaze.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feelin' Go(o)d (Fujii Kaze Stadium Live \"Feelin' Good\")",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/07_Feelin'_Go(o)d_(Fujii_Kaze_Stadium_Live__Feelin'_Good_)_藤井_風.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Introduction \"Feelin' Go (o) d\" (Fujii Kaze Stadium Live \"Feelin' Good\")",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/08_Introduction__Feelin'_Go_(o)_d__(Fujii_Kaze_Stadium_Live__Feelin'_Good_)_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Introduction \"Feelin' Go(o)d\" (Fujii Kaze Stadium Live \"Feelin' Good\")",
+      "artist": "藤井 風",
+      "has_synced": true,
+      "path": "select/09_Introduction__Feelin'_Go(o)d__(Fujii_Kaze_Stadium_Live__Feelin'_Good_)_藤井_風.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feelin' Go(o)d",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_Feelin'_Go(o)d_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Feelin' Go(o)d",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_Feelin'_Go(o)d_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Feelin' Go(o)d",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_Feelin'_Go(o)d_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Feelin' Go(o)d (Fujii Kaze Stadium Live \"Feelin' Good\")",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_Feelin'_Go(o)d_(Fujii_Kaze_Stadium_Live__Feelin'_Good_)_藤井_風.txt"
+    }
+  ]
+}
